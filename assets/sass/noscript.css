@@ -5,10 +5,6 @@
 */
 /* Loader */
 body.landing.is-preload:before {
-  display: none;
-}
-
+  display: none; }
 body.landing.is-preload:after {
-  display: none;
-}
-/*# sourceMappingURL=noscript.css.map */
+  display: none; }
